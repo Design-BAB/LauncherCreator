@@ -2,6 +2,8 @@
 
 You can stop manually crafting `.desktop` files! **Linux Launcher Creator** is a Java GUI application that simplifies adding custom programs to your Linux application menu. With just a few inputs, it builds and installs launchers that appear right alongside your regular apps.
 
+<img width="829" height="535" alt="Screenshot from 2025-07-22 13-08-26" src="https://github.com/user-attachments/assets/044eaa3a-c608-44b7-b069-cd8e49bb5185" />
+
 ---
 
 ## ✨ Features
