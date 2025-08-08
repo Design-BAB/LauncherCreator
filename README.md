@@ -33,7 +33,7 @@ You can stop manually crafting `.desktop` files! **Linux Launcher Creator** is a
 
 ---
 
-## 🏁 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
