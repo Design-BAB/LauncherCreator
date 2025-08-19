@@ -58,9 +58,3 @@ You can stop manually crafting `.desktop` files! **Linux Launcher Creator** is a
 
 Click **“Create!”** to generate and install your launcher. It’ll be ready to use from your system menu—though some desktops might require a restart or logout to reflect changes.
 
----
-
-## 📄 License
-
-This project is licensed under the MIT License—see the LICENSE file for details.
-
